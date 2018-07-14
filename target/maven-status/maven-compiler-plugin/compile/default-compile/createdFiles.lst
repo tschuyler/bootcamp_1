@@ -1,0 +1,12 @@
+framework/stepdefinition/RegistrationSD.class
+util/ConfigReader.class
+framework/SauceTest.class
+framework/web_pages/HomePage.class
+framework/web_pages/RegistrationPage.class
+framework/TestRunner.class
+framework/stepdefinition/InvalidRegistrationSD.class
+framework/stepdefinition/LoginSD.class
+framework/stepdefinition/SharedSD.class
+framework/stepdefinition/AutoCompleteSD.class
+framework/web_pages/LoginPage.class
+framework/BasePage.class
